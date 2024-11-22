@@ -1,0 +1,9 @@
+professor que deseja criar uma ferramenta que ajude os alunos a preverem(predição) suas notas com base no tempo de estudo
+
+
+Relação linear entre os números de horas estudadas e a  nota finais
+
+1 - Scikit-learn - modelo de regressão linear
+2 - treinar  o modelo com os dados de horas estudadas e notas finais
+3 - O usuário vai inserir o número horas que ele previni estudar e nós vamos
+prever a nota final
